@@ -3,64 +3,44 @@ layout: default
 ---
 
 # Workshop Description
-TODO(instructor): fill in this section with a description of your workshop.
-
-This course covers the following aspects
-  * Topic 1, and
-  * Topic 2, ...
+This R programming workshop will cover some basics of R, including the following
+  * Data visualization(s),
+  * `data.frame`'s (and to build up to this, we will cover a few other _data-types_, e.g. `List` or `vector`'s)
+  * Data manipulation (i.e. how to work efficiently with `data.frame`'s)
   
-It may be helpful to know that you can *italicize* text with single-asterisks
-(or alternatively, using _underscores_),
-and that you can **bold** text using double-asterisks.
-
-If you want to insert a link, use `[` in order to delimit the text that you wish
-to appear in the web-UI, and after closing the text with `]`insert the URL in a
-set of `()`, e.g. [here is a link to ICME's
-website](https://icme.stanford.edu/).
-
+Workshop materials will include an appendix of slightly more advanced topics,
+e.g. how to aggregate and reshape data and also construct a linear model; these
+will not directly be covered in the live course, however.
+  
 ## About the Instructor
+![Andreas](/assets/img/profile.jpg){:style="max-width:30%;"}
 
-TODO(instructor): create a profile photo in two steps.
+I am a computational mathematician, currently practicing Data Science and Engineering at Google and Lecturing at Stanford University. At Google, I work on YouTube recommendation algorithms and core statistical inference, and at Stanford I teach graduate students in STEM fields how to develop software in Python and C++. My research interests formerly lay at the intersection of causal inference and machine learning, but more recently I have been developing a passion for (deep) learning algorithms. In general, I strongly believe in leveraging AI for social good. I serve as a volunteer board member for the Society for Industrial and Applied Mathematics where I specialize in the education committee. I've been privileged to work closely under the guidance of Nobel Laureates on two separate occasions (Daniel McFadden and Guido Imbens).
 
-  * Replace "instructor-name" in the image below with your name (note: this link
-is only visible in the raw-text file; on the web-page itself you'll simply see a
-sticky note with "To Do" written on it).
-  * Move the image you would like to appear on your website into the 
-    following folder contained in your website's working directory
-    ```
-    /assets/img/profile.jpg
-    ```
-![instructor-name](/assets/img/profile.jpg){:style="max-width:30%;"}
-
-TODO(instructor): insert a description about yourself here!
+My undergraduate curricula was spread across communications and economics. In graduate school, I pursued a skillset in computational and mathematical engineering at ICME, with an emphasis on Data Science. Whilst there, I passed Ph.D. qualifying exams in both Discrete Mathematics and Algorithms and also Stochastic Processes. I was advised on my M.S. thesis by Guido Imbens, now a Nobel Laureate.
 
 # Workshop Materials
 
 ## Pre-workshop Checklist
-TODO(instructor): enumerate what students need to take care of before the
-workshop. E.g.
+Please download the workshop materials, hosted in a `.pdf` document on this
+website! Then, please go through the 2-pager background on "Setting Up R".
 
-1. Download the following tools: ...
-2. Familiarize with the schedule posted below.
+Lastly, familiarize yourself with the schedule below.
 
 ## Schedule
-TODO(instructor): Make sure the dates and times are accurate below for your
-course. E.g. replace `?`'s with the hour (or time-of-day) 
-that your course starts. Adjust time schedules within each session.
 
-#### Session 1 (?:00 - ?: ?.M. PST)
-  - Topic 1 with example time-allocation.
-  - Topic 2 with example time-allocation, etc.
+#### Session 1 (1:00 - 4:00 P.M. PST)
+  - Data Visualization in R
+  - Basics of R
   - 15 minute Q&A
   
-#### Session 2 (?:00 - ?:00 ?.M. PST)
-  - Something similar as above.
+#### Session 2 (1:00 - 4:00 P.M. PST)
+  - `Data.frame`'s
+  - Manipulation of data
 
 ## Additional Resources
+Please see the enclosed appendix in the workshop materials.
 
-Here are some additional resources for various topics:
-
-TODO(instructor): fill in with pertinent resources.
 
 
 
